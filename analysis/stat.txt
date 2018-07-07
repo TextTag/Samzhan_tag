@@ -1,0 +1,206 @@
+Avg coverage in titles by words: 16.39
+Avg coverage in titles by sents: 16.72
+void:len 60
+Avg coverage in title by sents and domains :35.42
+key:  num of keys:168 num of sents: 60
+足球: 12 世界杯: 9 法律: 6 俄罗斯世界杯: 4 英国: 3 宠物: 3 端午节: 3 摄影: 3 英超: 3 今日头条: 3 日本: 3 国际: 3 狗: 2 钓鱼: 2 金正恩: 2 花椒: 2 空军: 2 武器: 2 大豆: 2 民俗: 2 
+娱乐:len 8559
+Avg coverage in title by sents and domains :27.59
+key: 娱乐 num of keys:6452 num of sents: 8559
+娱乐: 1889 婚姻: 670 影视: 617 综艺: 500 明星八卦: 424 杨幂: 323 歌手: 318 音乐: 317 内地综艺: 290 美女: 290 韩国: 237 赵丽颖: 227 韩娱: 198 范冰冰: 196 内地电视剧: 177 演唱会: 171 艺术: 170 创造101: 168 舞蹈: 159 港台娱乐: 152 
+财经:len 8417
+Avg coverage in title by sents and domains :12.71
+key: 财经 num of keys:3988 num of sents: 8417
+投资: 3772 财经: 2074 经济: 1693 金融: 1421 基金: 928 沪指: 856 蓝筹股: 853 股票: 674 IPO: 574 创业: 481 能源: 459 中国人民银行: 358 法律: 357 银行: 356 新能源: 343 风投: 343 电子商务: 313 美股: 289 期货: 285 黄金: 252 
+故事:len 531
+Avg coverage in title by sents and domains :15.05
+key: 故事 num of keys:861 num of sents: 531
+故事: 360 民俗: 58 婚姻: 52 大学: 43 情感: 36 小说: 26 酒: 20 怀孕: 20 美女: 18 婚礼: 17 狗: 15 睡眠: 14 文学: 14 中国历史: 12 中国古代史: 10 朋友圈: 10 农村: 10 宁静: 10 明朝: 10 秦琼: 9 
+视频:len 67
+Avg coverage in title by sents and domains :13.76
+key: 视频 num of keys:205 num of sents: 67
+经济: 12 农业: 6 慈善: 5 鱼: 4 花: 4 三农: 4 时政: 4 家居: 4 水果: 3 艺术: 3 盆景: 3 清华大学: 3 药品: 3 欧洲: 3 日本: 3 动物: 3 海军: 2 政治: 2 英国: 2 农村: 2 
+体育:len 7133
+Avg coverage in title by sents and domains :19.16
+key: 体育 num of keys:2648 num of sents: 7133
+足球: 2424 NBA: 2100 世界杯: 1901 篮球: 1497 勒布朗·詹姆斯: 1078 体育: 995 俄罗斯世界杯: 706 克利夫兰骑士: 576 杜兰特: 531 休斯顿火箭: 452 中超: 392 西甲: 386 英超: 374 中国男足: 369 斯蒂芬·库里: 326 中国足球: 306 韩国: 296 C罗: 296 日本: 287 梅西: 283 
+宠物:len 495
+Avg coverage in title by sents and domains :26.48
+key: 宠物 num of keys:464 num of sents: 495
+宠物: 341 狗: 327 猫: 145 动物: 80 哈士奇: 64 金毛: 51 睡眠: 39 泰迪: 30 玩具: 30 中华田园犬: 21 萨摩耶: 20 英国: 19 柴犬: 16 波斯猫: 15 柯基犬: 14 鼠: 12 拉布拉多: 11 布偶猫: 11 虎斑猫: 9 德国牧羊犬: 9 
+心理:len 101
+Avg coverage in title by sents and domains :44.64
+key: 心理 num of keys:157 num of sents: 101
+心理: 79 心理学: 32 情感: 8 抑郁症: 6 艺术: 6 婚姻: 5 时装搭配: 5 创业: 4 投资: 4 动物: 4 心理健康: 4 美女: 3 焦虑症: 3 美文: 3 影视: 3 经济: 3 电影: 2 玫瑰: 2 珠宝: 2 化妆: 2 
+彩票:len 167
+Avg coverage in title by sents and domains :23.66
+key: 彩票 num of keys:188 num of sents: 167
+世界杯: 82 足球: 81 彩票: 79 俄罗斯世界杯: 35 竞彩: 26 哥斯达黎加: 18 国际足球: 15 巴甲: 14 塞内加尔: 13 韩国: 13 日本: 13 法国: 12 英超: 10 足球彩票: 10 中国体育彩票: 8 德甲: 8 弗拉门戈队: 7 欧洲: 7 乌拉圭: 7 天皇杯: 6 
+情感:len 621
+Avg coverage in title by sents and domains :7.60
+key: 情感 num of keys:749 num of sents: 621
+情感: 362 婚姻: 240 大学: 45 怀孕: 33 婚外情: 32 美文: 30 婚礼: 27 睡眠: 26 朋友圈: 26 法律: 26 经济: 26 移动互联网: 23 微信: 20 美女: 17 因为爱情: 17 日本: 15 购房: 13 鸡汤: 13 酒: 12 我们在一起: 11 
+军事:len 3262
+Avg coverage in title by sents and domains :13.31
+key: 军事 num of keys:1483 num of sents: 3262
+武器: 1751 军事: 890 海军: 876 战斗机: 696 空军: 678 陆军: 551 航母: 450 军事历史: 368 中国军情: 342 二战: 269 日本: 265 坦克: 192 射击: 181 中东局势: 167 环球军事: 143 歼-20: 134 武器装备: 131 经济: 124 驱逐舰: 123 英国: 114 
+设计:len 29
+Avg coverage in title by sents and domains :12.64
+key: 设计 num of keys:61 num of sents: 29
+设计师: 19 建筑: 6 艺术: 5 软件: 5 平面设计: 4 美术: 3 Photoshop: 3 插画: 3 米兰: 3 苹果公司: 2 日本: 2 鼠标: 2 人工智能: 2 时装搭配: 1 家居装饰: 1 欧洲: 1 Pinterest: 1 创业: 1 绿色建筑: 1 动物: 1 
+小说:len 50
+Avg coverage in title by sents and domains :9.03
+key: 小说 num of keys:108 num of sents: 50
+小说: 32 文化: 16 美女: 6 大学: 6 睡眠: 3 文学: 3 白雪: 3 网游: 2 空调: 2 日本: 2 施展: 2 西施: 1 苍茫: 1 乔布斯: 1 帝师: 1 东海: 1 唐朝: 1 作业本 : 1 海军: 1 水母: 1 
+传媒:len 91
+Avg coverage in title by sents and domains :11.70
+key: 传媒 num of keys:164 num of sents: 91
+移动互联网: 32 自媒体: 24 市场营销: 22 今日头条: 20 产品运营: 11 软件: 9 电子商务: 6 经济: 6 法律: 5 大众汽车: 5 广播: 4 社交网络: 4 政治: 4 微信: 4 智能手机: 4 音乐: 4 张一鸣: 3 金融: 3 人工智能: 3 摄影: 3 
+社会:len 1739
+Avg coverage in title by sents and domains :9.69
+key: 社会 num of keys:1630 num of sents: 1739
+社会: 888 法律: 319 交通: 260 法制: 132 经济: 102 移动互联网: 74 刑法: 68 婚姻: 68 投资: 64 高考: 63 农民: 62 建筑: 56 货车: 56 政法: 53 民生: 53 农业: 51 三农: 50 环境保护: 50 环境污染: 49 农村: 45 
+游戏:len 4097
+Avg coverage in title by sents and domains :18.80
+key: 游戏 num of keys:1996 num of sents: 4097
+游戏: 2070 网游: 526 英雄联盟: 515 电竞: 489 王者荣耀: 464 游戏机: 456 绝地求生: 403 武器: 263 手游: 253 刺激战场: 227 地下城与勇士: 218 Steam: 163 射击游戏: 155 RNG战队: 141 狙击步枪: 124 沙盒游戏: 122 韩国: 121 Xbox One: 114 PlayStation: 111 RPG游戏: 109 
+风水:len 21
+Avg coverage in title by sents and domains :20.16
+key: 风水 num of keys:61 num of sents: 21
+风水: 13 命理: 4 文物: 4 中国古代史: 3 中国历史: 2 郭璞: 2 唐太宗: 2 唐朝: 2 装修: 2 钱钟书: 1 汉朝: 1 王敦: 1 日本: 1 生肖: 1 佛教: 1 诗歌: 1 围城: 1 晋元帝: 1 呈坎: 1 元朝: 1 
+育儿:len 2741
+Avg coverage in title by sents and domains :6.90
+key: 育儿 num of keys:1394 num of sents: 2741
+育儿: 1367 怀孕: 709 睡眠: 413 孕产: 373 育儿锦囊: 336 早期教育: 327 玩具: 295 新生儿: 266 婴幼儿护理: 258 母乳喂养: 248 幼儿园: 221 产后护理: 183 分娩: 168 婴儿辅食: 159 备孕: 145 婚姻: 139 奶粉: 138 蔬菜: 125 水果: 122 药品: 111 
+电影:len 22
+Avg coverage in title by sents and domains :15.45
+key: 电影 num of keys:99 num of sents: 22
+电影: 2 武器: 2 美国: 2 周星驰: 2 音乐: 2 航空航天: 2 日本: 2 地球: 2 金·凯瑞: 2 王丽云: 1 科学: 1 许亚军: 1 星际穿越: 1 电影天堂: 1 文章: 1 科普: 1 人民的名义: 1 潘金福: 1 周冬雨: 1 杨根思: 1 
+技术:len 46
+Avg coverage in title by sents and domains :14.89
+key: 技术 num of keys:88 num of sents: 46
+技术: 22 编程语言: 17 Java: 12 软件: 9 脚本语言: 5 机器学习: 5 MySQL: 4 Linux: 4 程序员: 3 工程师: 3 通信: 3 HTML: 3 路由器: 3 PHP: 3 JSON: 3 Python: 3 Windows: 3 网络爬虫: 3 Flash: 2 CPU: 2 
+美文:len 1289
+Avg coverage in title by sents and domains :9.11
+key: 美文 num of keys:1404 num of sents: 1289
+美文: 998 鸡汤: 134 情感: 123 宁静: 61 婚姻: 51 花: 49 诗歌: 47 睡眠: 44 大学: 44 文学: 39 酒: 31 艺术: 31 音乐: 31 旅行: 29 朋友圈: 29 微信: 27 移动互联网: 26 创业: 21 小说: 19 动物: 18 
+科技:len 3796
+Avg coverage in title by sents and domains :18.22
+key: 科技 num of keys:1774 num of sents: 3796
+电子商务: 885 科技: 809 移动互联网: 598 京东: 548 人工智能: 498 软件: 440 马云: 337 支付宝: 312 投资: 310 智能手机: 274 iPhone: 247 苹果公司: 246 通信: 234 大数据: 215 市场营销: 195 区块链: 191 经济: 176 运营商: 170 微信: 169 Google: 165 
+旅游:len 2930
+Avg coverage in title by sents and domains :11.35
+key: 旅游 num of keys:2663 num of sents: 2930
+旅游: 954 建筑: 461 旅行: 315 酒店: 257 自驾游: 179 交通: 177 经济: 174 摄影: 148 户外运动: 131 徒步: 116 宁静: 112 日本: 105 泰国: 100 文物: 95 小吃: 79 三农: 78 农业: 77 漂流: 72 博物馆: 71 农村: 65 
+星座:len 754
+Avg coverage in title by sents and domains :22.79
+key: 星座 num of keys:266 num of sents: 754
+星座: 718 天蝎座: 218 双鱼座: 203 巨蟹座: 185 狮子座: 178 天秤座: 169 摩羯座: 150 水瓶座: 145 处女座: 144 金牛座: 141 白羊座: 122 双子座: 110 射手座: 105 婚姻: 70 生肖: 48 命理: 40 占卜: 32 风水: 14 投资: 14 倔强: 12 
+佛学:len 48
+Avg coverage in title by sents and domains :9.03
+key: 佛学 num of keys:107 num of sents: 48
+佛教: 22 佛学: 20 佛像: 14 建筑: 12 观音: 7 弥勒菩萨: 4 文物: 4 惠能: 3 普陀山: 3 乾隆: 3 康熙: 3 塔尔寺: 2 莫高窟: 2 龙山: 2 儒家: 2 南华寺: 2 文殊: 2 辽朝: 2 释迦牟尼: 2 南普陀寺: 2 
+科普:len 15
+Avg coverage in title by sents and domains :18.89
+key: 科普 num of keys:56 num of sents: 15
+地球: 4 科学: 4 洋流: 2 葡萄酒: 2 天文: 2 探索: 2 高血压: 2 宇宙: 2 物理: 2 巴尔干半岛: 1 鸭嘴龙: 1 糕点: 1 胃炎: 1 鱼: 1 芝士蛋糕: 1 朱进: 1 鬼吹灯: 1 埃及金字塔: 1 洋葱: 1 甜品: 1 
+辟谣:len 2
+Avg coverage in title by sents and domains :12.50
+key: 辟谣 num of keys:4 num of sents: 2
+辟谣: 2 投资: 1 基金: 1 法律: 1 
+摄影:len 445
+Avg coverage in title by sents and domains :24.47
+key: 摄影 num of keys:694 num of sents: 445
+摄影: 371 相机: 81 艺术: 26 建筑: 23 单反: 21 模特: 18 日本: 17 旅行: 16 数码相机: 13 地球: 13 美女: 12 美术: 11 软件: 11 花: 11 动物: 11 英国: 10 航拍: 10 农业: 10 佳能: 9 三农: 9 
+文化:len 1825
+Avg coverage in title by sents and domains :17.39
+key: 文化 num of keys:2342 num of sents: 1825
+文化: 411 艺术: 390 书法: 199 中国历史: 161 美术: 159 文物: 156 文学: 112 中国古代史: 107 考古: 100 诗歌: 99 建筑: 93 清朝: 91 宋朝: 77 博物馆: 76 明朝: 68 国学: 66 油画: 59 手工艺: 54 小说: 52 唐朝: 51 
+三农:len 1659
+Avg coverage in title by sents and domains :17.94
+key: 三农 num of keys:894 num of sents: 1659
+三农: 961 农业: 924 农民: 664 农村: 513 种植业: 470 畜牧业: 323 农资: 232 水果: 172 农产品: 134 小麦: 124 玉米: 110 蔬菜: 94 饲料: 78 猪: 67 养猪: 64 经济: 60 农村改革: 59 农药: 59 创业: 40 西瓜: 37 
+搞笑:len 1201
+Avg coverage in title by sents and domains :17.79
+key: 搞笑 num of keys:1045 num of sents: 1201
+搞笑: 998 美女: 153 狗: 110 婚姻: 104 奇葩: 70 大学: 54 睡眠: 49 酒: 49 幼儿园: 35 自行车: 34 高考: 33 婚礼: 30 猫: 27 动物: 26 情感: 23 减肥: 22 英语: 22 唐三藏: 21 玩具: 21 怀孕: 20 
+移民:len 62
+Avg coverage in title by sents and domains :35.75
+key: 移民 num of keys:97 num of sents: 62
+移民: 54 法律: 13 投资: 11 地球: 10 非法移民: 9 加拿大: 8 签证: 8 经济: 7 火星: 7 太阳系: 6 政治: 5 英语: 5 欧洲: 5 购房: 4 雅思: 3 宇宙: 3 Twitter: 3 外汇: 3 法国: 3 CNN: 3 
+动漫:len 475
+Avg coverage in title by sents and domains :22.51
+key: 动漫 num of keys:729 num of sents: 475
+动漫: 192 热血动漫: 142 日本动漫: 120 漫画: 95 海贼王: 70 火影忍者: 36 路飞: 31 日本: 24 影视: 22 鸣人: 18 复仇者联盟: 18 艺术: 15 国产动漫: 15 欧美动漫: 14 蜘蛛侠: 13 声优: 13 宇宙: 12 七龙珠: 12 柯南: 12 索隆: 11 
+数码:len 1706
+Avg coverage in title by sents and domains :16.58
+key: 数码 num of keys:771 num of sents: 1706
+数码: 404 iPhone: 345 智能手机: 330 手机: 316 华为手机: 267 三星: 239 小米科技: 235 华为荣耀: 201 软件: 190 摄影: 184 人工智能: 183 vivo: 164 高通: 155 iPhone X: 146 GPU: 145 苹果公司: 142 相机: 134 华为: 120 OPPO: 113 雷军: 105 
+科学:len 1704
+Avg coverage in title by sents and domains :16.71
+key: 科学 num of keys:1011 num of sents: 1704
+地球: 1028 宇宙: 501 探索: 457 科学: 429 太阳系: 315 物理: 232 NASA: 198 天文: 198 科普: 161 航空航天: 152 火星: 133 黑洞: 131 动物: 126 小行星: 118 外星生命: 114 银河: 110 爱因斯坦: 88 木星: 84 化学: 76 大学: 73 
+房产:len 467
+Avg coverage in title by sents and domains :8.45
+key: 房产 num of keys:413 num of sents: 467
+购房: 306 房产: 257 投资: 109 经济: 108 二手房: 70 建筑: 68 法律: 67 租房: 60 装修: 48 金融: 39 保障房: 31 婚姻: 23 交通: 19 基金: 18 万科集团: 17 社会保险: 17 碧桂园: 15 环境污染: 13 银行: 12 中国人民银行: 11 
+健康:len 6519
+Avg coverage in title by sents and domains :12.54
+key: 健康 num of keys:1540 num of sents: 6519
+健康: 1633 中医: 996 睡眠: 971 药品: 904 养生: 888 糖尿病: 683 高血压: 675 蔬菜: 649 癌症: 577 减肥: 543 心血管病: 521 便秘: 521 营养学: 509 水果: 507 中药: 408 推拿: 384 穴位: 358 腹泻: 344 肿瘤: 342 饮食健康: 337 
+美女:len 7
+Avg coverage in title by sents and domains :24.76
+key: 美女 num of keys:17 num of sents: 7
+美女: 5 摄影: 2 蒋欣: 1 时装搭配: 1 孙俪: 1 王语嫣: 1 甄嬛传: 1 李沁: 1 李若彤: 1 周芷若: 1 小龙女: 1 高圆圆: 1 赵丽颖: 1 李曼: 1 创造101: 1 模特: 1 金莎: 1 
+职场:len 369
+Avg coverage in title by sents and domains :11.80
+key: 职场 num of keys:439 num of sents: 369
+职场: 241 面试: 43 经济: 37 法律: 34 创业: 31 大学: 30 市场营销: 30 社会保险: 29 金融: 21 投资: 20 养老保险: 18 软件: 17 电子商务: 16 人力资源: 16 产品经理: 16 马云: 14 职业规划: 13 KPI: 11 财会: 11 华为: 11 
+时政:len 838
+Avg coverage in title by sents and domains :9.97
+key: 时政 num of keys:988 num of sents: 838
+时政: 312 经济: 217 政治: 160 法律: 121 台湾: 79 环境保护: 69 三农: 60 农业: 57 反腐倡廉: 51 环境污染: 51 投资: 42 农村: 38 上合: 35 大学: 34 金融: 28 马克思主义: 28 创业: 27 刑法: 26 交通: 25 能源: 25 
+历史:len 5725
+Avg coverage in title by sents and domains :17.95
+key: 历史 num of keys:3913 num of sents: 5725
+中国历史: 1589 中国古代史: 1313 历史: 940 清朝: 890 明朝: 653 日本: 585 中国近代史: 568 军事历史: 562 唐朝: 478 抗日战争: 375 汉朝: 359 二战: 344 宋朝: 336 曹操: 306 刘备: 221 朱元璋: 202 乾隆: 199 诸葛亮: 194 慈禧: 193 陆军: 175 
+其它:len 5032
+Avg coverage in title by sents and domains :23.73
+key: 其它 num of keys:4899 num of sents: 5032
+经济: 190 农业: 176 大学: 171 建筑: 168 艺术: 149 日本: 141 婚姻: 126 投资: 125 创业: 121 水果: 108 武器: 105 动物: 103 法律: 101 农民: 98 睡眠: 98 农村: 95 三农: 90 摄影: 89 英国: 82 软件: 82 
+家居:len 1220
+Avg coverage in title by sents and domains :13.50
+key: 家居 num of keys:780 num of sents: 1220
+家居: 648 装修: 466 家具: 348 花: 173 设计师: 166 家装设计: 163 盆景: 112 购房: 102 环境保护: 102 种植业: 78 榻榻米: 73 空调: 69 农业: 65 建筑: 63 厨卫电器: 60 小户型: 59 三农: 59 绿植: 56 多肉植物: 55 艺术: 49 
+养生:len 75
+Avg coverage in title by sents and domains :13.40
+key: 养生 num of keys:173 num of sents: 75
+养生: 17 中医: 10 中药: 9 糖尿病: 9 蔬菜: 9 营养学: 9 睡眠: 9 高血压: 9 癌症: 8 茶: 8 枸杞: 8 便秘: 8 美容: 7 药品: 7 酒: 6 健康: 6 腹泻: 6 饮食健康: 5 心血管病: 5 山药: 5 
+收藏:len 220
+Avg coverage in title by sents and domains :18.34
+key: 收藏 num of keys:330 num of sents: 220
+收藏: 83 玉: 56 文玩: 45 文物: 30 陶瓷: 26 钱币: 23 翡翠: 20 瓷器: 20 艺术: 20 中国古代史: 18 手工艺: 14 清朝: 13 雕塑: 12 考古: 12 和田玉: 11 博物馆: 11 宋朝: 10 玛瑙: 9 中国历史: 9 艺术品: 9 
+国际:len 4267
+Avg coverage in title by sents and domains :14.05
+key: 国际 num of keys:2349 num of sents: 4267
+国际: 1766 经济: 747 英国: 532 日本: 523 欧洲: 360 国际社会: 341 政治: 338 法律: 334 加拿大: 311 中东局势: 304 法国: 304 韩国: 275 普京: 267 金正恩: 229 美国: 157 时政外交: 151 朝鲜半岛: 151 奥巴马: 144 酒店: 140 投资: 139 
+汽车:len 6205
+Avg coverage in title by sents and domains :14.36
+key: 汽车 num of keys:1973 num of sents: 6205
+国产车: 1747 SUV: 1726 汽车: 1533 豪华车: 1052 德国汽车: 962 日本汽车: 796 汽车用品: 715 轿车: 581 新能源汽车: 566 大众汽车: 474 跑车: 446 电动汽车: 412 用车: 340 交通: 319 奔驰: 313 BMW: 313 MPV: 285 新能源: 280 空调: 260 丰田: 234 
+美食:len 3551
+Avg coverage in title by sents and domains :13.70
+key: 美食 num of keys:1391 num of sents: 3551
+美食: 835 烹饪技巧: 734 生抽: 620 菜谱: 495 料酒: 403 酱油: 318 小吃: 310 辣椒: 266 蒜茸: 246 香油: 232 酒: 212 花椒: 205 水果: 202 胡椒粉: 194 老抽: 181 蔬菜: 177 豆腐: 167 胡萝卜: 162 面条: 158 青椒: 156 
+时尚:len 1700
+Avg coverage in title by sents and domains :17.30
+key: 时尚 num of keys:1228 num of sents: 1700
+时装搭配: 458 高跟鞋: 243 护肤: 212 美容: 189 鞋: 188 时装: 161 化妆: 151 腕表: 147 模特: 117 美发: 100 刺绣: 78 面膜: 74 超模: 72 奢侈品: 70 口红: 65 劳力士: 63 手工艺: 63 日本: 58 设计师: 57 珠宝: 54 
+教育:len 1325
+Avg coverage in title by sents and domains :18.37
+key: 教育 num of keys:1461 num of sents: 1325
+教育: 597 高考: 516 大学: 430 语文: 131 英语: 122 数学: 86 经济: 60 清华大学: 60 文学: 55 早期教育: 51 政治: 46 幼儿园: 45 法律: 41 艺术: 41 北京大学: 41 交通: 38 升学考试: 37 睡眠: 37 英国: 34 考研: 31 
+奇葩:len 1
+Avg coverage in title by sents and domains :20.00
+key: 奇葩 num of keys:5 num of sents: 1
+相声: 1 盘点: 1 岳云鹏: 1 高峰: 1 于谦: 1 
