@@ -56,6 +56,12 @@ CUDA_VISIBLE_DEVICES=1 python train_test.py --weight-path yourmodeldir --load-co
 
 ### Test:
 
+Model Link
+
+```
+https://pan.baidu.com/s/1K4R8kL9UkC2BYBng5aVwmg
+```
+
 ```
 CUDA_VISIBLE_DEVICES=1 python train_test.py --weight-path yourmodeldir --load-config --train-test test > all_res.txt
 ```
