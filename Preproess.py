@@ -39,7 +39,7 @@ rENG = '[A-Za-z_.]+'
 
 
 class Data_extraction(object):
-    def __init__(self, inpath, sheetname, usr_dict, stop_words, domain, test_data):
+    def __init__(self, inpath, sheetname, usr_dict, stop_words, domain, test_data, train):
         self.sheetname = sheetname
         self.usr_dict = usr_dict
         self.stop_words = stop_words
@@ -57,15 +57,17 @@ class Data_extraction(object):
         self.domain_dict = os.path.join(self.data_dir, 'dict')
         if not os.path.exists(user_dict):
             self.create_usr_dict()
-        # tok_set, words_set = self.generator()
-        # vocab, words= self.generate_vocab(words_set)
-        # self.write2csv(tok_set, vocab)
-        with open(self.domain_dict,'rb') as f:
-            text = pickle.load(f)
-        vocabulary = {x: i for i, x in enumerate(text)}
-        self.domain_set = self.collect_train_domains()
-        token_set = self.generate_test()
-        self.write2csv(token_set, vocabulary, False)
+        if train:
+            tok_set, words_set = self.generator()
+            vocab, words= self.generate_vocab(words_set)
+            self.write2csv(tok_set, vocab)
+        else:
+            with open(self.domain_dict,'rb') as f:
+                text = pickle.load(f)
+            vocabulary = {x: i for i, x in enumerate(text)}
+            self.domain_set = self.collect_train_domains()
+            token_set = self.generate_test()
+            self.write2csv(token_set, vocabulary, False)
 
     def tokenization(self, title):
         '''
@@ -295,4 +297,4 @@ class Data_extraction(object):
 
 
 if __name__ == '__main__':
-    Data_extraction('raw_data', 'MySheet', './usr.dict', './stop_words.txt', 'all', 'test_raw')
+    Data_extraction('raw_data', 'MySheet', './usr.dict', './stop_words.txt', 'all', 'test_raw', True)
